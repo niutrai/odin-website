@@ -9,7 +9,7 @@ body{
     justify-content: space-around;
     background-color: #1f2937;
     color: #fff;
-    padding: 10px;
+    padding: 10px 0;
     margin: -10px;
 }
 
@@ -70,3 +70,37 @@ div.main-info button{
     padding: 4px 18px;
     margin-top: 8px;
 }
+
+.third-sec{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.third-sec h2{
+    margin: 40px;
+}
+
+.img-cont{
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}   
+
+.r-img{
+    width : 100px;
+    height: 100px;
+}
+
+.img-r{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #3882f6;
+    border-radius: 5px;
+}
+
+.r-img p{
+    font-size: 10px;
+    text-align: center;
+}
+
