@@ -119,3 +119,38 @@ div.main-info button{
     font-size: 18px;
 }
 
+.fifth-sec{
+    background-color: #3882f6;
+    width: 700px;
+    height: 100px;
+    align-self: center;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.ad h5{
+    margin: 0;
+    font-size: 14px;
+}
+
+.ad p{
+    font-size: 10px;
+    margin: 0;
+}
+
+.ad-con{
+    display: flex;
+    gap: 70px;
+}
+
+.sign{
+    border: none;
+    border: 1px solid #e5e7eb;
+    border-radius: 5px;
+    background-color: #3882f6;
+    color: white;
+    align-self: flex-end;
+}
