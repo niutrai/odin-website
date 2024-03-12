@@ -154,3 +154,7 @@ div.main-info button{
     color: white;
     align-self: flex-end;
 }
+
+body{
+    background-color: green;
+}
