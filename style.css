@@ -129,6 +129,7 @@ div.main-info button{
     justify-content: center;
     align-items: center;
     color: white;
+    margin-bottom: 50px;
 }
 
 .ad h5{
@@ -155,6 +156,17 @@ div.main-info button{
     align-self: flex-end;
 }
 
-body{
-    background-color: green;
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    margin: auto -10px -10px -10px;
+    background-color: #1f2937;
+    color: white;
+    font-size: 12px;
+}
+
+footer div span{
+    margin: 0 4px;
 }
